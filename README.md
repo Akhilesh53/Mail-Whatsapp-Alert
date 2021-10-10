@@ -42,7 +42,7 @@ For receiving messages from WhatsApp, Do the following
 
 Copy the Forwarding link (till io) and Paste it in Twilio console at https://console.twilio.com/us1/develop/sms/settings/whatsapp-sandbox?frameUrl=%2Fconsole%2Fsms%2Fwhatsapp%2Fsandbox%3Fx-target-region%3Dus1
 
- https://136e-2405-201-5507-a80b-6928-503f-77db-56b1.ngrok.io/whatsapp
+*Paste it like this link* https://136e-2405-201-5507-a80b-6928-503f-77db-56b1.ngrok.io/whatsapp
  
  ![image](https://user-images.githubusercontent.com/64018679/136689465-2910effa-af29-4b1a-afb6-796d2b909528.png)
  
@@ -63,7 +63,7 @@ SetUp you GMAIL For Creating Imap connection
 
  **NOTE**: In Gmail Settings make your gmail account **TURN ON** for Less Secure Apps. (Otherwise you will get Error)
  
- *You can use the following links to go through the code and learn more about it.  <br/>
+ *You can use the following links to go through the code and learn more about it*.  <br/>
  
  https://excellencetechnologies.in/blog/receive-and-send-email-from-email-server-with-node-js/   <br/>
  https://dev.to/mesadhan/manage-your-re-mail-using-imap-2p18    <br/>  
@@ -78,7 +78,7 @@ SetUp you GMAIL For Creating Imap connection
  
  2) Fill your Credentials accordingly and Submit it.
  
- *NOTE :* Please Enter your Mobile Number with Country Code as in below Pic. 
+ **NOTE :** Please Enter your Mobile Number with **Country Code** as in below Pic. 
 
  ![image](https://user-images.githubusercontent.com/64018679/136690052-7bccd9eb-5495-40f2-bcd8-a26727cd69db.png)
 
