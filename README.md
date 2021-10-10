@@ -1,13 +1,13 @@
 # Mail-Whatsapp-Alert
 
-This is a Javascript Project which will fetch all the mail notifications and send it to *WhatsApp*.
+This is a Javascript Project which will fetch all the mail notifications and send it to **WhatsApp**.
 
 Load the respective code in your code editor and run it on your local host.
 
-Framework => Express, EJS, Node JS.
-Backend Language => Javascript
-FrontEnd => EJS
-Software Used for Sending and Receiving messages from WhatsApp => Twilio WhatsApp Sandbox.
+**Framework** => Express, EJS, Node JS. <br/>
+**Backend Language** => Javascript. <br/> 
+**FrontEnd** => EJS. <br/>
+**Software Used for Sending and Receiving messages from WhatsApp** => Twilio WhatsApp Sandbox. <br/>
 
 
 # Step by step Explainaton how to make changes and run it on your localhost.
@@ -52,7 +52,7 @@ Copy the Forwarding link (till io) and Paste it in Twilio console at https://con
  
  # 3 Fetch mails Using IMAP
  
-SetUp you gmail For Creating Imap connection
+SetUp you GMAIL For Creating Imap connection
 
 1. On your computer, open Gmail.
 2. In the top right, click Settings .
@@ -61,14 +61,14 @@ SetUp you gmail For Creating Imap connection
 5. In the “IMAP access” section, select Enable IMAP.
 6. Click Save Changes
 
-*NOTE: In Gmail Settings make your gmail account TURN ON for Less Secure Apps.* (Otherwise you will get Error)
+ **NOTE**: In Gmail Settings make your gmail account **TURN ON** for Less Secure Apps. (Otherwise you will get Error)
  
- *You can use the following links to go through the code and learn more about it.
+ *You can use the following links to go through the code and learn more about it.  <br/>
  
- https://excellencetechnologies.in/blog/receive-and-send-email-from-email-server-with-node-js/
- https://dev.to/mesadhan/manage-your-re-mail-using-imap-2p18
- https://www.codegrepper.com/code-examples/javascript/read+email+using+node+js
- https://www.zeolearn.com/magazine/sending-and-receiving-emails-using-nodejs
+ https://excellencetechnologies.in/blog/receive-and-send-email-from-email-server-with-node-js/   <br/>
+ https://dev.to/mesadhan/manage-your-re-mail-using-imap-2p18    <br/>  
+ https://www.codegrepper.com/code-examples/javascript/read+email+using+node+js   <br/>
+ https://www.zeolearn.com/magazine/sending-and-receiving-emails-using-nodejs   <br/>
  
  # 4 Demo of Application made
  
@@ -95,7 +95,9 @@ SetUp you gmail For Creating Imap connection
 *On writing the wrong Email Credentials, you will get a message for Invalid Credentials.
  
  
+ **UPDATES ARE ALWAYS WELCOMED** <br/>
  
+ You can add more new features to retreive whole message and reply the mail from whatsapp too.
  
  
  
