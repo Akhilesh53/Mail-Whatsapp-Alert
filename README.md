@@ -92,7 +92,7 @@ SetUp you GMAIL For Creating Imap connection
  
  ![image](https://user-images.githubusercontent.com/64018679/136690305-7da2c0e9-a18b-4f26-bb3b-d130e6ad15a8.png)
 
-*On writing the wrong Email Credentials, you will get a message for Invalid Credentials.
+**NOTE :** On writing the wrong Email Credentials, you will get a message for **Invalid Credentials**.
  
  
  **UPDATES ARE ALWAYS WELCOMED** <br/>
