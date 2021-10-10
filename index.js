@@ -60,8 +60,7 @@ app.post('/', async function (req, res) {
   frontpage.setallinputvalues(req.body.email, req.body.password, req.body.phone)
 
   num = frontpage.getnumber();
-  console.log(req.body.email + ' ' + req.body.password + ' ' + req.body.phone + ' ' + num);
-
+  
   await sendMessage.send_message("Thanks for joining. Please write *CHECK* to see all unread emails", num);
 
   res.send("Checkout your Whatsapp");
