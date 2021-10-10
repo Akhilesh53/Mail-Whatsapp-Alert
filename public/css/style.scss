@@ -1,0 +1,90 @@
+.heading{
+    background-color: antiquewhite;
+    border: 0pc;
+    border-radius: 20px;
+    height: auto;
+    width: fit-content;
+    margin-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.heading-name{
+    padding-top: 10px;
+    font-size: 35px;
+    text-align: center;
+}
+
+.join-mssg{
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+}
+
+.form{
+    float: auto;
+    width: fit-content;
+    margin-top: 50px;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.form_heading
+{
+    font-size: 23px;
+    font-weight: 500;
+}
+
+.form_inp
+{
+    width: 440px;
+    height: 50px;
+    font-size: 25px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#password{
+    padding-left: 250px;
+}
+
+
+.intl-tel-input {
+    display: table-cell;
+  }
+  .intl-tel-input .selected-flag {
+    z-index: 4;
+  }
+  .intl-tel-input .country-list {
+    z-index: 5;
+  }
+  .input-group .intl-tel-input .form-control {
+    border-top-left-radius: 4px;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 0;
+  }
+
+  #phone{
+      margin-top: 20px;
+      margin-left: 30px;
+      margin-right: auto;
+  }
+  .center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+  }
+
+  .button{
+      height:auto;
+      width: 200px;
+      text-align: center;
+      font-size: 30px;
+      border-radius: 30px;
+      background-color: rgb(98, 211, 226);
+  }
